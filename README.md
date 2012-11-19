@@ -1,1 +1,1 @@
-This is a simple mielophone extension. Adds Button to home screen
+This is a simple Mielophone (Adobe AIR version) extension. Adds Button to home screen
